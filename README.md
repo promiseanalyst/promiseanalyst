@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**promiseanalyst/promiseanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst** based in **Ibadan, Nigeria** 🇳🇬  
+I specialize in turning data into meaningful insights to drive decision-making and business growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tools & Skills
+- **SQL** – For querying and managing relational databases  
+- **Power BI** – For creating dynamic dashboards and data visualizations  
+- **Excel** – For data cleaning, analysis, and modeling  
+
+---
+
+#### 📊 What I Do
+- Transform raw data into actionable insights  
+- Design and build interactive reports and dashboards  
+- Help businesses make data-driven decisions  
+
+---
+
+#### 📫 Let’s Connect!
+Feel free to reach out or check out some of my projects here on GitHub.  
+I’m always open to collaborations and opportunities to grow.
+
+---
+
